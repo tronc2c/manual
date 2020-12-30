@@ -38,4 +38,4 @@
 当然，超过48小时的订单也是一直存储在区块链上，可以通过特定地手段去查询和操作。
 
 ## 10. 更多详细
-其它详见《白皮书》和[《一锤子用户手册》](https://steemjiang.com:8081/ipfs/QmVtuNQCyseLHYyB9DNpjj89TCiw1pNmJqvoBm7SeChD9Q)
+其它详见[《白皮书》](https://github.com/tronc2c/whitepaper) 和 [《一锤子用户手册》](https://steemjiang.com:8081/ipfs/QmZr8UtfqaLdeVR4GHKKy57EWw5N7tdKz9s7BtTFxjJZLY)
